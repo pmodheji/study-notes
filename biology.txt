@@ -1,3 +1,6 @@
 Biology Chapter 1: Cells
 Cell parts: nucleus, membrane, cytoplasm
 Cell functions: growth, reproduction, metabolism
+Chapter 3: Physics
+- Newton's Laws (original content)
+- Example: Pushing a shopping cart demonstrates force = mass × acceleration (your additi
